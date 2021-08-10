@@ -16,3 +16,5 @@
 ## 勉強会
 
 https://speakerdeck.com/minodriven
+
+https://event.shoeisha.jp/devsumi
