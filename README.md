@@ -12,3 +12,7 @@
 - [ ] Cisco
 - [ ] Linux
 - [ ] AWS
+
+## 勉強会
+
+https://speakerdeck.com/minodriven
